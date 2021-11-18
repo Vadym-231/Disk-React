@@ -1,0 +1,11 @@
+.form-container{
+    display: inline-block;
+    width: 50%;
+    padding: 5% 2% 6% 2%;
+}
+.form-view{
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    padding: 5% 10% 0% 11%;
+}
